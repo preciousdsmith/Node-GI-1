@@ -1,15 +1,10 @@
 //const fss = require('fs')
 
 //fs.appendFlSynce('notes.txt', 'I live in Charlotte.')
-require('./utils.js')
+require('../NodeChallenge.js/utils.js')
 const name = 'Andrew'
 console.log(name)
 
-
-
-//import {franc, francAll} from 'franc'
-
-// console.log(franc('Gwaith da'))
 
 
 
